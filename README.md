@@ -4,7 +4,7 @@ This is a **responsive portfolio website** built using **HTML, CSS, and JavaScri
 
 
 ## 📁 Project Structure
-/portfolio
+/portfolio                         
 │── /assets        # Images, icons, fonts, and other assets
 │── /css           # Stylesheets
 │── /js            # JavaScript files (if any)
